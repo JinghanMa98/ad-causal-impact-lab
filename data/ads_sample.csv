@@ -1,0 +1,6 @@
+user_id,timestamp,channel,impressions,clicks,conversions,spend,region,treatment
+u1,2025-07-01 10:00:00,search,10,1,0,5.0,NE,1
+u2,2025-07-01 10:05:00,social,5,0,0,2.5,NE,0
+u3,2025-07-01 10:06:00,display,20,2,1,8.0,W,1
+u4,2025-07-01 10:10:00,search,8,1,1,4.0,W,0
+u5,2025-07-01 10:12:00,social,12,2,0,6.0,S,1
